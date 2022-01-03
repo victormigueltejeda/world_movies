@@ -1,13 +1,13 @@
 import React from "react";
-import { MoviesGrid } from "../components/MoviesGrid";
+//import { MoviesGrid } from "../components/MoviesGrid";
 import "./App.css";
 import {
   BrowserRouter as Router,
   Switch,
   Route,
   Link,
-  useRouteMatch,
-  useParams,
+  //useRouteMatch,
+  //useParams,
 } from "react-router-dom";
 import { MoviesDetail } from "../pages/Moviesdetail";
 import { LandingPages } from "../pages/LandingPages";
